@@ -5,14 +5,14 @@
 
 **Assignment Instructions:**
 
-Visit the URL. https://magento.softwaretestingboard.com/
-Navigate to Create an Account.
-Manually Create an account using fake emails (no authentication needed) and Signout.
-Navigate to Sign In.
-Write an automation test for the sign-in functionality under "Registered Customers" in the screen shot above. Include only the test cases which you think should be tested. Be prepared to justify why you included these test cases and excluded others in the team interview.
-There should be results of test execution with reporting.
-There should be instructions on how to execute the tests so that we can run it.
-Make sure you upload your assignment to GitHub and send us the GitHub link and be prepared to run it in the next round.
+1. Visit the URL. https://magento.softwaretestingboard.com/
+2. Navigate to Create an Account.
+3. Manually Create an account using fake emails (no authentication needed) and Signout.
+4. Navigate to Sign In.
+5. Write an automation test for the sign-in functionality under "Registered Customers" in the screen shot above. Include only the test cases which you think should be tested. Be prepared to justify why you included these test cases and excluded others in the team interview.
+6. There should be results of test execution with reporting.
+7. There should be instructions on how to execute the tests so that we can run it.
+8. Make sure you upload your assignment to GitHub and send us the GitHub link and be prepared to run it in the next round.
 
 **Prerequisites:**
 
