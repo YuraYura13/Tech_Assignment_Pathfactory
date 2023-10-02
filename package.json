@@ -1,0 +1,19 @@
+{
+  "name": "pathfactory_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:loginTest:chrome": "cypress run --spec cypress/e2e/tests/loginTest.cy.js --browser chrome",
+    "test:loginTest:electron": "cypress run --spec cypress/e2e/tests/loginTest.cy.js --browser electron",
+    "install:dependencies": "npm install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.3.0",
+    "cypress-mochawesome-reporter": "^3.6.0",
+    "cypress-wait-for-stable-dom": "^0.1.0"
+  }
+}

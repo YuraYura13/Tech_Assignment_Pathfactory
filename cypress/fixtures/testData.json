@@ -1,0 +1,27 @@
+
+{
+    "login": 
+    {
+       "email":"test2347@example.com",
+       "invalidEmail":"blabla@gmail.com",
+       "emailWithoutAtSign": "test2347example.com",
+       "password": "testpassword124@",
+       "invalidPassword": "wwwww"
+    },
+    
+
+    "message":
+    {
+      "passwordResetSuccesMessage": "If there is an account associated with {email} you will receive an email with a link to reset your password.",
+      "signOutMessage": "You are signed out",
+      "incorrectSignInMessage": "The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.",
+      "incorrectSignInMessageFormat": "Please enter a valid email address (Ex: johndoe@domain.com).",
+      "emptySignInErrorMessage": "This is a required field.",
+      "loginPageTitle": "Customer Login"
+    }
+    
+  }
+
+
+
+
