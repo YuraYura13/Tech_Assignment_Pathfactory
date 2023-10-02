@@ -12,7 +12,7 @@ describe("Sign-in functionality", () => {
     LoginPageObj.openURL()
   });
 
-  it.only("Should Sign-in/Sign-out with valid credentials", () => {
+  it("Should Sign-in/Sign-out with valid credentials", () => {
     cy.login(testData.login.email, testData.login.password);
     cy.assertURL(Cypress.env("myAccountPage"));
     cy.signOut()
