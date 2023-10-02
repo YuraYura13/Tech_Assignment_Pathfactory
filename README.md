@@ -27,7 +27,7 @@ Follow these steps to install the project:
 
 Clone the repository:
 
-git clone https://github.com/YuraYura13/Tech_Assignment_Pathfactory.git
+ git clone https://github.com/YuraYura13/Tech_Assignment_Pathfactory.git
 
 Install project dependencies:
 
