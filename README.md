@@ -1,9 +1,9 @@
 
-Hello,
+**Hello,**
 
-Welcome to the Sign-In Functionality Test Suite!
+**Welcome to the Sign-In Functionality Test Suite!**
 
-Assignment Instructions:
+**Assignment Instructions:**
 
 Visit the URL. https://magento.softwaretestingboard.com/
 Navigate to Create an Account.
@@ -14,18 +14,18 @@ There should be results of test execution with reporting.
 There should be instructions on how to execute the tests so that we can run it.
 Make sure you upload your assignment to GitHub and send us the GitHub link and be prepared to run it in the next round.
 
-Prerequisites:
+**Prerequisites:**
 
 Before you start, ensure you have the following requirements in place:
 
 Node.js and npm installed on your machine.
 Operating System: <Specify Windows/Linux/Mac> (Note any OS dependencies if applicable).
 
-Installation:
+**Installation:**
 
 Follow these steps to install the project:
 
-Clone the repository: 
+Clone the repository:
 
 git clone https://github.com/YuraYura13/Tech_Assignment_Pathfactory.git
 
@@ -33,7 +33,7 @@ Install project dependencies:
 
 npm install
 
-Running Tests:
+**Running Tests:**
 
 To run the tests, follow these instructions:
 
@@ -45,6 +45,6 @@ Headless mode:
 
 npx cypress run
 
-Reporting:
+**Reporting:**
 
 The test suite generates detailed HTML reports for test runs. You can find these reports in the 'Tech_Assignment_Pathfactory/cypress/reports/html' directory.
